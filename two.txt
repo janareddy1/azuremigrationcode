@@ -1,4 +1,0 @@
-five.sh      index2.html   one.txt		  script.groovy
-in.py	     index3.html   pick.py		  test1
-index.html   login.groovy  pipeline.groovy	  tw.sh
-index1.html  one.sh	   pipelinescript.groovy  two.txt
